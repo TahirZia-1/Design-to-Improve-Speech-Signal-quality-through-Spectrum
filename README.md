@@ -2,8 +2,6 @@
 
 A comprehensive MATLAB-based system designed to improve speech signal quality through advanced spectral processing techniques.
 
-![Speech Enhancement](https://raw.githubusercontent.com/username/speech-enhancement/main/images/enhancement_example.png)
-
 ## Overview
 
 This project implements a state-of-the-art speech enhancement system to address the challenge of undesired noise in speech signals. Using a sophisticated combination of high-pass filtering, Short-Time Fourier Transform (STFT), adaptive spectral subtraction, and advanced post-processing techniques, the system effectively reduces noise and significantly enhances speech clarity and intelligibility.
